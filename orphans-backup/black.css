@@ -1,0 +1,20 @@
+/* Default link styles */
+a:link, a:visited, a:active { text-decoration: none; color: #777; }
+a:hover { text-decoration: underline; color: #777; }
+a.action:link, a.action:visited, a.action:hover, a.action:active, .controlpanel .label { color: #777; }
+
+.commonbox h1, .commonbox h2 {
+background-color:#242424;
+color:#fff;
+}
+.edit a, .edit a:link, .edit a:visited, .edit a:active, edit a:hover { 
+color: #fff;
+}
+.commonbox, .controlpanel {
+background-color:#ddd !important;
+}
+.flo200 .ic .imgblock { border: 1px solid #777; }
+#controlPanelButtons a, #controlPanelButtons a:link, #controlPanelButtons a:visited { color: #000; background:#D6D6D6; border: 1px solid #C9C9C9; }
+#controlPanelButtons a:hover {color:#fff; background:#777;}
+
+.evenrow, .dr { background: #ececec; }

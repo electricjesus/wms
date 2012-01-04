@@ -1,0 +1,2 @@
+OPTIMIZE TABLE `dr` , `drdetails` , `inv` , `invdetails` , `prices` , `pricetype` , `principals` , `products` , `productvars` , `varsizes`;
+REPAIR TABLE `dr` , `drdetails` , `inv` , `invdetails` , `prices` , `pricetype` , `principals` , `products` , `productvars` , `varsizes` ;
